@@ -42,11 +42,11 @@
 <h2>Updating Contacts</h2>
 
 <div>
-  <a href="https://www.linkedin.com/in/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.telegram" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://instagram.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://x.com/AiZettaDog?t=Hi26d60NSscyX3HM-HbdKA&s=09" target="_blank">
+  <img src="https://img.shields.io/badge/-x-%23E4405F?style=for-the-badge&logo=x&logoColor=white">
   </a>
   <a href="https://discord.gg/" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">

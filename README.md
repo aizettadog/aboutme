@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4eff9851-b60b-459a-aaa8-6a8551564c8f">
+  <img src="https://github.com/aizettadog/aizettadog/issues/1#issue-2825565724">
 </div>
 
 <h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>

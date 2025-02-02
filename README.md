@@ -19,7 +19,7 @@
   𝙬𝙤𝙣'𝙩 𝙬𝙤𝙧𝙠 𝙪𝙣𝙡𝙚𝙨𝙨 𝙮𝙤𝙪 𝙩𝙧𝙮
 </p>
 
-<h2>Market Stats Soon!</h2>
+<h2>Market Data Stats Soon!</h2>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aizettadog&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">

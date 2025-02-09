@@ -42,7 +42,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/12277/12277751.png">
-  <img align="center" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/12277/12277751.png">
+  <img align="center" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968389.png">
   </div>
 
 

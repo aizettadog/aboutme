@@ -24,15 +24,15 @@
   𝙬𝙤𝙣'𝙩 𝙬𝙤𝙧𝙠 𝙪𝙣𝙡𝙚𝙨𝙨 𝙮𝙤𝙪 𝙩𝙧𝙮
 </p>
 
-<h2>Market Data Stats Soon!</h2>
+<h2 align="center">Market Data Stats Soon!</h2>
 
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aizettadog&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">
 </div>
 
-<h2>Ai 𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑎𝑛𝑑 𝑇𝑜𝑜𝑙𝑠</h2>
+<h2 align="center">Ai 𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑎𝑛𝑑 𝑇𝑜𝑜𝑙𝑠</h2>
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -46,8 +46,8 @@
   </div>
 
 
-<h2>Updating Contacts</h2>
-<div>
+<h2 align="center">Updating Contacts</h2>
+<div align="center">
   <a href="https://www.telegram/" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white">
   </a>

@@ -46,7 +46,7 @@
 <h2>Updating Contacts</h2>
 
 <div>
-  <a href="https://www.telegram" target="_blank">
+  <a href="https://www.telegram/" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="https://x.com/AiZettaDog?t=Hi26d60NSscyX3HM-HbdKA&s=09" target="_blank">
@@ -56,6 +56,6 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="mailto:zettam.projects@pm.me" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/proton-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>

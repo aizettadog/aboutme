@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Clickable image that links to the website -->
   <a href="https://prnt.sc/NnxhCxHxcDhE" target="_blank">
-    <img src="https://img001.prntscr.com/file/img001/TVBul4lHQEa1c9GoWPBgdA.png" width="500" height="500" alt="Website Preview">
+    <img src="https://img001.prntscr.com/file/img001/TVBul4lHQEa1c9GoWPBgdA.png" width="1000" height="500" alt="Website Preview">
   </a>
 </div>
 
